@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaluicio.chinadapp.store/sitemap.xml
